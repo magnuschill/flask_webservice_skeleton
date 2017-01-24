@@ -1,0 +1,27 @@
+"""
+Test Suite for [INSERT TEST TARGET HERE]
+"""
+import unittest
+from basetest import BaseTestSuite
+
+class YourSuiteNameHere(BaseTestSuite):
+
+    @classmethod
+    def setUpClass(cls):
+        pass
+
+    def setUp(self):
+        pass
+
+    def test_testcase_name(self):
+        pass
+
+    def tearDown(self):
+        pass
+
+    @classmethod
+    def tearDownClass(cls):
+        pass
+
+if __name__ == '__main__':
+    unittest.main()

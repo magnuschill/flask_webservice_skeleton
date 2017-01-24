@@ -1,0 +1,5 @@
+flask
+mysqlclient
+SQLAlchemy
+marshmallow
+webargs
